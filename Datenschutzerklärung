@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Datenschutzerklärung für die App TeachTime</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body { 
+      font-family: system-ui, sans-serif;
+      max-width: 800px;
+      margin: 32px auto;
+      background: #f8f9fa;
+      color: #23272f;
+      line-height: 1.6;
+      padding: 24px;
+      border-radius: 16px;
+      box-shadow: 0 6px 28px 0 rgba(30,34,90,0.09);
+    }
+    h1, h2 {
+      color: #2b3e58;
+    }
+    h1 {
+      font-size: 2.2em;
+      margin-top: 0;
+    }
+    h2 {
+      margin-top: 1.6em;
+      font-size: 1.35em;
+    }
+    p, li {
+      font-size: 1.05em;
+    }
+    ul {
+      padding-left: 1.4em;
+    }
+    .footer {
+      font-size: 0.98em;
+      color: #888;
+      margin-top: 2.5em;
+    }
+  </style>
+</head>
+<body>
+  <h1>Datenschutzerklärung für die App „TeachTime“</h1>
+  <p><strong>Stand: Juli 2025</strong></p>
+
+  <h2>1. Verantwortliche Stelle</h2>
+  <p>
+    Verantwortlich für die Datenverarbeitung im Sinne der DSGVO ist der jeweilige Nutzer, da sämtliche Daten ausschließlich lokal auf dem verwendeten Gerät gespeichert werden.<br>
+    Bei Rückfragen wenden Sie sich bitte an den App-Entwickler:<br>
+    <a href="mailto:jhdevelopment@gmail.com">jhdevelopment@gmail.com</a>
+  </p>
+
+  <h2>2. Erhobene und verarbeitete Daten</h2>
+  <p>Die App verarbeitet und speichert ausschließlich die folgenden Daten – ausschließlich lokal auf Ihrem Gerät:</p>
+  <ul>
+    <li>Arbeitszeiteinträge (Datum, Startzeit, Endzeit, gewählte Kategorie, Notizen, ggf. Unterkategorien)</li>
+    <li>Stundenplandaten (Klasse, Raum, Uhrzeit)</li>
+    <li>Pausen- und Ferienzeiten</li>
+    <li>Individuelle Einstellungen innerhalb der App</li>
+  </ul>
+  <p>Es werden keine weiteren personenbezogenen Daten erhoben, insbesondere keine Namen, Adressen, Kontaktinformationen oder Standortdaten.</p>
+
+  <h2>3. Zweck der Datenverarbeitung</h2>
+  <p>Die erfassten Daten dienen ausschließlich folgenden Zwecken:</p>
+  <ul>
+    <li>Übersicht und Verwaltung Ihrer eigenen Arbeitszeiten</li>
+    <li>Analyse der Einhaltung von Pausen- und Arbeitszeitregelungen</li>
+    <li>Unterstützung bei der Dokumentation Ihrer Arbeitsbelastung</li>
+    <li>Darstellung und Verwaltung des Stundenplans</li>
+  </ul>
+
+  <h2>4. Datenverarbeitung &amp; Datensicherheit</h2>
+  <ul>
+    <li><strong>Lokale Speicherung:</strong> Alle Daten werden ausschließlich auf dem Gerät gespeichert, auf dem die App installiert ist. Es findet keine Übertragung, Synchronisation oder Speicherung auf externen Servern statt.</li>
+    <li><strong>Datenlöschung:</strong> Sie können sämtliche Daten jederzeit in der App dauerhaft löschen. Es besteht keine Möglichkeit zur Wiederherstellung gelöschter Daten, sofern keine eigene Sicherung erfolgt.</li>
+    <li><strong>Keine Verschlüsselung:</strong> Die Datenspeicherung erfolgt unverschlüsselt auf dem Gerät. Beachten Sie bitte, dass bei Verlust des Geräts unberechtigter Zugriff auf Ihre Daten nicht ausgeschlossen werden kann.</li>
+  </ul>
+
+  <h2>4a. PDF-Export</h2>
+  <p>Die App bietet die Möglichkeit, Ihre erfassten Daten als PDF-Datei zu exportieren und auf Ihrem Gerät zu speichern oder über andere Dienste (z.&nbsp;B. E-Mail, Cloud-Speicher, Messenger) zu teilen.</p>
+  <p><strong>Bitte beachten Sie:</strong></p>
+  <ul>
+    <li>Der Export und die Weitergabe der PDF-Dateien erfolgt ausschließlich auf Ihre eigene Initiative und Verantwortung.</li>
+    <li>Die App überträgt keine Daten automatisch an Dritte.</li>
+    <li>Nach dem Export haben Sie selbst die Kontrolle darüber, wie und mit wem Sie die PDF-Dateien teilen.</li>
+    <li>Beachten Sie, dass bei einer Weitergabe der PDF-Dateien an Dritte auch diese Einblick in Ihre gespeicherten Daten erhalten.</li>
+  </ul>
+
+  <h2>5. Weitergabe von Daten an Dritte</h2>
+  <ul>
+    <li>Es erfolgt keine Übertragung der gespeicherten Daten an Dritte.</li>
+    <li>Die App nutzt keine Analyse-, Tracking- oder Werbedienste.</li>
+  </ul>
+
+  <h2>6. Rechte der Nutzer:innen</h2>
+  <ul>
+    <li>Sie haben jederzeit die volle Kontrolle über Ihre Daten und können diese direkt in der App einsehen, ändern oder löschen.</li>
+    <li>Es werden keine personenbezogenen Daten außerhalb Ihres Geräts verarbeitet, sodass auch kein Auskunftsrecht gegenüber Dritten besteht.</li>
+  </ul>
+
+  <h2>7. Änderungen dieser Datenschutzerklärung</h2>
+  <p>Diese Datenschutzerklärung kann bei Änderungen der App-Funktionalität angepasst werden. Die jeweils aktuelle Version ist in der App und/oder im App Store verfügbar.</p>
+
+  <h2>8. Kontakt</h2>
+  <p>Für Fragen zum Datenschutz oder zu dieser App kontaktieren Sie bitte den Entwickler unter:<br>
+  <a href="mailto:jhdevelopment@gmail.com">jhdevelopment@gmail.com</a></p>
+
+  <div class="footer">
+    Stand: Juli 2025
+  </div>
+</body>
+</html>
