@@ -38,6 +38,13 @@
       color: #888;
       margin-top: 2.5em;
     }
+    .gh-hinweis {
+      font-size: 0.98em;
+      color: #888;
+      margin-top: 2.5em;
+      border-top: 1px solid #e0e0e0;
+      padding-top: 1em;
+    }
   </style>
 </head>
 <body>
@@ -108,6 +115,10 @@
 
   <div class="footer">
     Stand: Juli 2025
+  </div>
+  <div class="gh-hinweis">
+    Hinweis: Beim Besuch dieser Seite werden technisch notwendige Daten (z.&nbsp;B. IP-Adresse) durch GitHub als Hostinganbieter verarbeitet. Mehr Informationen: 
+    <a href="https://docs.github.com/de/site-policy/privacy-policies/github-privacy-statement" target="_blank" rel="noopener">GitHub Datenschutzerklärung</a>.
   </div>
 </body>
 </html>
